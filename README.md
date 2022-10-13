@@ -19,8 +19,8 @@ In this report, I explain my endevour to analyze and visualize the WeRateDogs Ma
 <li> Which year has the highest number of Users? <li>
 <li> Which Dog Stage has the Highest Rating? <li>
 <li> What is the most popuar Dog breed? <li>
-<li> 5. What are the Ten most popular Dog names? <li>
-<li> 6. Which Tweets ID and Photo has the highest likes? </li>
+<li> What are the Ten most popular Dog names? <li>
+<li> Which Tweets ID and Photo has the highest likes? </li>
 </ol>
 
 
