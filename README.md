@@ -30,4 +30,4 @@ ___
 Analyzing and visualising the insights from a dataset help to bring the dataset to life and spur engagement.
 
 
-<img scr=dog.png>
+<img scr="dog.png" alt="Dog Image">
