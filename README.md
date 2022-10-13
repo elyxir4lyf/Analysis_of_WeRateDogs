@@ -15,11 +15,8 @@ ___
 
 In this report, I explain my endevour to analyze and visualize the WeRateDogs Master_Clean dataset. Haven taken time to extensively gather, explore and clean my dataset using three deferrent methods from three different sources, I merged the datasets into a Master clean Dataset, which was saved to file as twitter_archive_master.csv. I then visualized the following concerns:
 <ol>
-<li>What's the highest source of tweets and rating?<li><br><li>Which year has the highest number of Users?<li>
-<li>Which Dog Stage has the Highest Rating?<li>
-<li>What is the most popuar Dog breed?<li>
-<li>What are the Ten most popular Dog names?<li>
-<li>Which Tweets ID and Photo has the highest likes?</li>
+<li>What's the highest source of tweets and rating?<li><li>Which year has the highest number of Users?<li><li>Which Dog Stage has the Highest Rating?<li>
+<li>What is the most popuar Dog breed?<li><li>What are the Ten most popular Dog names?<li><li>Which Tweets ID and Photo has the highest likes?</li>
 </ol>
 
 
