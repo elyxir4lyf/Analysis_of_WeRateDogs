@@ -13,7 +13,7 @@ WeRateDogs is a Twitter account that rates people's dogs with a humorous comment
 ## Approach To Analysis
 ___
 
-In this report, I explain my endevour to analyze and visualize the WeRateDogs Master_Clean dataset. Haven taken time to extensively gather, explore and clean my dataset using three deferrent methods from three different sources, I merged the datasets into a Master clean Dataset, which was saved to file as twitter_archive_master.csv. I then visualized the following concerns:\n",
+In this report, I explain my endevour to analyze and visualize the WeRateDogs Master_Clean dataset. Haven taken time to extensively gather, explore and clean my dataset using three deferrent methods from three different sources, I merged the datasets into a Master clean Dataset, which was saved to file as twitter_archive_master.csv. I then visualized the following concerns:
 <ol>
 <l1> What's the highest source of tweets and rating? </l1>
 <l1> Which year has the highest number of Users? </l1>
