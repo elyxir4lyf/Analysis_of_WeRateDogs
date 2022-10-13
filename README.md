@@ -1,7 +1,8 @@
 # Analysis and Visualization of WeRateDogs
 ___
 
-<br>
+
+
 ## The Dataset
 ___
 
@@ -9,7 +10,8 @@ As it is generally known, the Process of wrangling a data or datasets involves a
 
 WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. WeRateDogs has over 4 million followers and has received international media coverage. The dog ratings always have a denominator of 10 and the numerators is almost always greater than 10.
 
-<br>
+
+
 ## Approach To Analysis
 ___
 
@@ -22,7 +24,8 @@ In this report, I explain my endevour to analyze and visualize the WeRateDogs Ma
 - What are the Ten most popular Dog names?
 - Which Tweets ID and Photo has the highest likes?
 
-<br>
+
+
 ## Conclusion
 ___
 
